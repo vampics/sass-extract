@@ -29,7 +29,6 @@
     "node": ">=4"
   },
   "peerDependencies": {
-    "node-sass": ">=3.8.0",
     "sass": ">=1"
   },
   "dependencies": {
